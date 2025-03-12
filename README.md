@@ -4,5 +4,11 @@ L'interface devient nécessaire à ce moment là : quelle masse pour notre pendu
 
 # Installation
 Pour lancer le logiciel, il suffit de lancer le script Python contenu dans TIPE Interface.py
+
+# Modules
+Tkinter utilisé pour l'interface
+math utilisé pour les expressions mathématiques
+time utilisé pour le dynamisme de l'interface
+
 # Guide
 Dans le fichier Guide Logiciel.pdf, retrouvez une description de ce travail.
